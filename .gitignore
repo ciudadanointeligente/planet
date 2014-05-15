@@ -1,3 +1,13 @@
+# PlanetPlanet
+*.tmplc
+ciudadanoi/cache/
+ciudadanoi/output/atom.xml
+ciudadanoi/output/foafroll.xml
+ciudadanoi/output/index.html
+ciudadanoi/output/opml.xml
+ciudadanoi/output/rss10.xml
+ciudadanoi/output/rss20.xml
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
